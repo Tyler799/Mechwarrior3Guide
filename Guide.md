@@ -103,7 +103,7 @@ You will need to learn the layout of the map, do weird maneuvers and play far di
 
 (If you can't handle it, which is *very* understandable, there's a version without the additional enemies that you may want to try. It's still certainly a challenge.)
 
-#Known graphical, gameplay, and otherwise issues you may encounter
+# Known Issues
 
 * The MFBs on Op 2 Mission 2 (possibly some other missions) get stuck. This happens if they are used to repair at their starting point. Once you've been repaired, you'll find 2 of the 3 MFB's no longer respond to commands to move. This can be fixed by hitting escape, going into the options menu, and then going back into the mission. Once you do so, they'll un-stick and get moving to their point. 
 
