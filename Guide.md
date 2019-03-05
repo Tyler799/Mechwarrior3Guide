@@ -110,3 +110,10 @@ You will need to learn the layout of the map, do weird maneuvers and play far di
 * Some missions, like Operation 1 Mission 2, have a bug related to save-games. If you start the mission, take some damage, and then repair, you took armor out of your total armor supply. However, this also magically carries over to *before you started the mission*. Meaning that if you try and fail to do Mission 2 several times, you'll quickly find yourself starting the mission with no armor at all. The best fix is to just back up your save file at the beginning of each mission. If you fail it, delete your save and get the backup. This also applies to ammo. Several missions apparently have this bug. Making the saves read-only may also be a potential fix. I haven't tested to see if this bug persists in an installed (non-rip) version of the game. 
 
 * Launching the game as administrator will cause OBS hotkeys like starting a recording to fail. Why? No clue. But I've done extensive testing, it's very consistent.
+
+# Contributions
+
+A massive thank you to /u/dei-ex-machina for making the original guide that inspired me to do this one.
+
+* AncientxFreako for his amazing mods that vastly improved the Mechwarrior 3 world
+* PP Mguire for his technical assistance and explanations, as well as general advice
