@@ -7,7 +7,7 @@ If you wish to contribute to this guide, you can make pull requests or issues. I
 If you need to reach me, you can reach me:
 
 * Here on github
-* PM me at /u/Night_Thastus
+* PM me at /u/Night_Thastus on Reddit
 * PM me on Discord, Night Thastus #6641.
 
 # Baseline Setup
