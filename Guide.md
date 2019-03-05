@@ -115,6 +115,10 @@ You will need to learn the layout of the map, do weird maneuvers and play far di
 
 * Alt-tabbing doesn't seem to do anything. Teleguy has an alt-tab registry fix that needs to be looked into
 
+* No audio in the salvage screen (everywhere else appears fine)
+
+* Binding keys in the controls menu seems iffy. Often need to press keys several times. 
+
 # Contributions
 
 A massive thank you to /u/dei-ex-machina for making the original guide that inspired me to do this one.
