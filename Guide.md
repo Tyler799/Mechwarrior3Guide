@@ -61,6 +61,8 @@ DirectX:
 * Antialaising (MSAA): 8x
 * Miscilaneous: Bilinear blit stretch, force Vsync
 
+The scaling mode setting in General and the resolution setting in DirectX effectively negates the need for Teleguy's HD/Widescreen patch. However, as an added benefit, this method keeps the HUD the same scale as it was in the original game. Now you can play at as high as a resolution as you want, with no tiny hud!
+
 Do **not** enable any compatability options for Mech3.exe. This *will* fuck up dgVooDoo. You may see crashes, extremely low framerate or otherwise. Let dgVooDoo do its job. 
 
 **Framerate:** 
@@ -110,6 +112,8 @@ You will need to learn the layout of the map, do weird maneuvers and play far di
 * Some missions, like Operation 1 Mission 2, have a bug related to save-games. If you start the mission, take some damage, and then repair, you took armor out of your total armor supply. However, this also magically carries over to *before you started the mission*. Meaning that if you try and fail to do Mission 2 several times, you'll quickly find yourself starting the mission with no armor at all. The best fix is to just back up your save file at the beginning of each mission. If you fail it, delete your save and get the backup. This also applies to ammo. Several missions apparently have this bug. Making the saves read-only may also be a potential fix. I haven't tested to see if this bug persists in an installed (non-rip) version of the game. 
 
 * Launching the game as administrator will cause OBS hotkeys like starting a recording to fail. Why? No clue. But I've done extensive testing, it's very consistent.
+
+* Alt-tabbing doesn't seem to do anything. Teleguy has an alt-tab registry fix that needs to be looked into
 
 # Contributions
 
