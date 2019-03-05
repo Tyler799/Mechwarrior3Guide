@@ -1,6 +1,8 @@
 # Introduction
 
-//todo
+This is an attempt to make a "Living guide" for installing, running and troubleshooting Mechwarrior 3 on modern PC's. It incorporates some of the original guide I had on Reddit, as well as changes and new discoveries that I've made since.
+
+If you wish to contribute to this guide, you can make pull requests or issues. I can't guarentee they'll be included, but I'll at the very least open up a discussion so I can see what you feel needs to be changed. 
 
 # Baseline Setup
 
@@ -10,7 +12,7 @@ As for installation, there's two main methods. I recommend the first one:
 
 **Method 1: (Recommended)**
 
-1: Download the ISO for Mechwarrior 3 [here](http://www.myabandonware.com/game/mechwarrior-3-7pg#download) and the vrsion 1.2 patch.
+1: Download the ISO for Mechwarrior 3 [here](http://www.myabandonware.com/game/mechwarrior-3-7pg#download) and the version 1.2 patch.
 
 2: Open the ISO, and run "Autorun.exe". This is the installer for Mechwarrior 3. Chose a location you want it to be installed to. As for options, I recommend:
 
