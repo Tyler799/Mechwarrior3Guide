@@ -34,7 +34,7 @@ If later while testing, this fails complaining about a missing MSVCP50.DLL, you 
 
 (I've only encountered this in the RIP version, not the installed version)
 
-There are several bugs which I'm almost 100% certain *only occur on the ripped version*. So again, I *do not recommend this approach*! Just download the ISO, and run the installer. 
+There are several bugs which I'm almost 100% certain *only occur on the ripped version* after testing in both. So again, I *do not recommend this approach*! Just download the ISO, and run the installer. 
 
 **After main installation Method 1 or 2:**
 
