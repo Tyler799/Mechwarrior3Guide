@@ -30,51 +30,46 @@ As for installation, there's two main methods. I recommend the first one:
 
 3: Open the 1.2 patch download, and run the executable within.
 
+If later while testing, this fails complaining about a missing MSVCP50.DLL, you can get it [here](https://www.dll-files.com/download/5cd93690f8028ab0361cdcd6d0373195/msvcp50.dll.html?c=UVFwS20yblJzS0NxZGJMNWxBbkVrdz09).
+
+(I've only encountered this in the RIP version, not the installed version)
+
+There are several bugs which I'm almost 100% certain *only occur on the ripped version*. So again, I *do not recommend this approach*! Just download the ISO, and run the installer. 
+
+**After main installation Method 1 or 2:**
+
 So now we need the power of [dgVooDoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2.html). This is an interface that talks to applications and kind of emulates the types of graphics outputs they're expecting, so they can work with modern computers. Once extracted, copy all 3 files from the MS (microsoft) folder into your Mechwarrior 3 folder. You can place the dgVooDoo setup application wherever you like, but personally I just leave it in the Mechwarrior 3 folder. 
 
 You're going to need to go to the top of the application, where the "Config Folder/Running Instance" note is. On the right is a button that says "Add". This allows you to add profiles for each game you want to use DGVooDoo for. 
 
 Make one for Mechwarrior 3, by pointing it at your MW3 folder. This will put a config file in your Mechwarrior 3 folder, if you've done it correctly. (dgVooDoo.conf)
 
-Now what settings do I use for dgVooDoo? Under the DirectX tab (since MW3 is a directX game) I'd disable the dgVooDoo watermark and enable MSAA. 8x MSAA removes a lot of the aliasing, though it's not perfect. I also allow for 1024MB of Vram, though I doubt this actually does anything.
+Now what settings do I use for dgVooDoo? 
 
-Other settings are up to you to try and test. I haven't seen any real difference from any of them, but it might be worth a shot. Do not set the resolution here, that is handled by the launcher.
+General:
 
-**6:** Cap your FPS to 30, somehow. Preferably with [RivaTuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html). This is also what I use to cap Skyrim to 60 to avoid similar issues. 
+* Adapter(s) to use/enable: your current GPU
+* Full Screen Output: "Display 1"
+* Scaling mode: Streched, keep aspect ratio
+* Appearance: Enumerate refresh rates
 
-You need to do this because as with many games (even modern ones) the physics engine's calculations are tied to the framerate you're playing at. At 60 FPS you'll see bouncing APCs. 30 FPS, while not ideal, works perfectly. 
+DirectX:
 
-**7:** Now is the most important part - Go ahead and test starting the game. If it fails complaining about a missing MSVCP50.DLL, you can get it [here](https://www.dll-files.com/download/5cd93690f8028ab0361cdcd6d0373195/msvcp50.dll.html?c=UVFwS20yblJzS0NxZGJMNWxBbkVrdz09).
-
-It's possible that this fix may be the source of other issues, but it's an unknown factor at this point. 
-
-If you're having any issues at this point, make sure you followed all the instructions so far correctly. If you did and you're still having issues, message me. It should work at this point for everyone.
+* VRAM: 1024 MB
+* Filtering: Force anisotropic 16x
+* Resolution: Your current resolution, 59/60Hz
+* Antialaising (MSAA): 8x
+* Miscilaneous: Bilinear blit stretch, force Vsync
 
 Do **not** enable any compatability options for Mech3.exe. This *will* fuck up dgVooDoo. You may see crashes, extremely low framerate or otherwise. Let dgVooDoo do its job. 
 
-**8:** Wouldn't it be nice if Mechwarrior 3 could play at a higher resolution and 16:9? Yes, it would. And there are two main options you have:
+**Framerate:** 
 
-* [Teleguy's HD/Widescreen Patch](https://www.vogons.org/viewtopic.php?f=24&t=42714)
+Mechwarrior 3 is another older game in which physics calculations are tied (somehow) to framerate. If you followed the steps above, hopefully the game should be capped via Vsync to 59Hz. However, if you force-disabled this in your drivers for all games, it won't work. (Obviously)
 
-* [Res Fix by EOP](http://www.mechwarriorsunited.com/downloads.html)
+You can also use [RivaTuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) to cap it to 30. This is also what I use to cap Skyrim to 60 to avoid similar issues. 
 
-Both of these replace the executable. (And both are based on the 1.2 patched version, so don't worry) However, Teleguy's is a better option overall. It offers support for a wide range of resolutions, it fixes the 4:3 fixed aspect ratio, and it seems to just work well. (EOP's is fixed at 1024x768, which is not 16:9)
-
-Go ahead and extract the files, moving all of them into your Mechwarrior 3 folder. 
-
-*You'll need to run the Launcher is administrator, otherwise it won't find the Mech3.exe.*
-
-As Dei Ex Machina said, high resolutions aren't really an option. Even not considering other issues, the game's UI and zoom are far, far too small at 1080p or 1440p.
-
-1600x900 is acceptable, but I've found that I personally prefer even lower, 1280x720, just so the zoom reticule is large enough to matter and so the UI isn't so damn small.
-
-Personal preference, but that's what I'd suggest.
-
-Note: Once you've done this, don't mess with the resolution in-game. It'll work, but then you'll be playing at whatever you select there instead. And it doesn't have 16:9 options. 
-
-I don't know if you need to launch the game from the launcher every time, or if you need to select the resolution every time. However, I do both just in case. 
-
-**END OF BASELINE:**
+#End of Baseline
 
 Congrats! This setup should work fine on modern machines, and won't have any really serious issues.
 
@@ -112,6 +107,6 @@ You will need to learn the layout of the map, do weird maneuvers and play far di
 
 * The MFBs on Op 2 Mission 2 (possibly some other missions) get stuck. This happens if they are used to repair at their starting point. Once you've been repaired, you'll find 2 of the 3 MFB's no longer respond to commands to move. This can be fixed by hitting escape, going into the options menu, and then going back into the mission. Once you do so, they'll un-stick and get moving to their point. 
 
-* Some missions, like Operation 1 Mission 2, have a bug related to save-games. If you start the mission, take some damage, and then repair, you took armor out of your total armor supply. However, this also magically carries over to *before you started the mission*. Meaning that if you try and fail to do Mission 2 several times, you'll quickly find yourself starting the mission with no armor at all. The best fix is to just back up your save file at the beginning of each mission. If you fail it, delete your save and get the backup. This also applies to ammo. Several missions apparently have this bug.
+* Some missions, like Operation 1 Mission 2, have a bug related to save-games. If you start the mission, take some damage, and then repair, you took armor out of your total armor supply. However, this also magically carries over to *before you started the mission*. Meaning that if you try and fail to do Mission 2 several times, you'll quickly find yourself starting the mission with no armor at all. The best fix is to just back up your save file at the beginning of each mission. If you fail it, delete your save and get the backup. This also applies to ammo. Several missions apparently have this bug. Making the saves read-only may also be a potential fix. I haven't tested to see if this bug persists in an installed (non-rip) version of the game. 
 
 * Launching the game as administrator will cause OBS hotkeys like starting a recording to fail. Why? No clue. But I've done extensive testing, it's very consistent.
