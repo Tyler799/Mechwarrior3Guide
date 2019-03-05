@@ -1,8 +1,8 @@
-#Introduction
+# Introduction
 
 //todo
 
-#Baseline Setup
+# Baseline Setup
 
 First and foremost, if you already have an installation of Mechwarrior 3 take the time to properly uninstall it. If you just have a ripped version then you don't need to use the Windows add/remove programs tool, but you should still go and delete the folder. 
 
@@ -69,7 +69,7 @@ Mechwarrior 3 is another older game in which physics calculations are tied (some
 
 You can also use [RivaTuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) to cap it to 30. This is also what I use to cap Skyrim to 60 to avoid similar issues. 
 
-#End of Baseline
+# End of Baseline, Beginning of Mods
 
 Congrats! This setup should work fine on modern machines, and won't have any really serious issues.
 
