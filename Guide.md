@@ -4,6 +4,12 @@ This is an attempt to make a "Living guide" for installing, running and troubles
 
 If you wish to contribute to this guide, you can make pull requests or issues. I can't guarentee they'll be included, but I'll at the very least open up a discussion so I can see what you feel needs to be changed. 
 
+If you need to reach me, you can reach me:
+
+* Here on github
+* PM me at /u/Night_Thastus
+* PM me on Discord, Night Thastus #6641.
+
 # Baseline Setup
 
 First and foremost, if you already have an installation of Mechwarrior 3 take the time to properly uninstall it. If you just have a ripped version then you don't need to use the Windows add/remove programs tool, but you should still go and delete the folder. 
