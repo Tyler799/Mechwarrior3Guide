@@ -4,21 +4,31 @@
 
 #Baseline Setup
 
-**1:** Get the ripped version of Mechwarrior 3 from [here](http://www.myabandonware.com/game/mechwarrior-3-7pg#download).
+First and foremost, if you already have an installation of Mechwarrior 3 take the time to properly uninstall it. If you just have a ripped version then you don't need to use the Windows add/remove programs tool, but you should still go and delete the folder. 
 
-**2:** Get the ISO file as well, it'll be important later for applications like the Patcher that require a CD to be there.
+As for installation, there's two main methods. I recommend the first one:
 
-**3:** Do *not* get the NO CD Fix. Why? You see, the No CD fix is actually just a modified executable for MW3, based off of the 1.2 patched version. This is great on its own. 
+**Method 1: (Recommended)**
 
-However, you'll end up losing this fix once you install other things that replace the Mech3.exe, so it's kind of pointless. Specifically, Teleguy's HD/Widescreen patch over-writes this. You can *manually* patch the EXE, but it's not really recommended. You have the ISO file, just use it. Patching the NO-CD version of the EXE on your own is likely more trouble than it's worth.
+1: Download the ISO for Mechwarrior 3 [here](http://www.myabandonware.com/game/mechwarrior-3-7pg#download) and the vrsion 1.2 patch.
 
-**4:** Get the 1.2 Patch (also from MyAbandonware). This is an executable that will put several files on your computer, including the 1.2 patched Mech3.exe, as well as several other misc. files that are important. Now listen carefully: This does not work the way you think it does. By default, if you haven't run the Registry Setup executable in the Mechwarrior 3 - RIP folder, it will default to C:/Microprose/Mechwarrior 3. 
+2: Open the ISO, and run "Autorun.exe". This is the installer for Mechwarrior 3. Chose a location you want it to be installed to. As for options, I recommend:
 
-However, the moment you run the Registry setup, you are effectively telling your computer where Mechwarrior 3 is installed. So if you do the registry setup first, and *then* do the 1.2 patch, you won't need to move any files. The patcher will *automatically* put the files in the correct place. 
+* Enable the video file option
+* Disable software rendering option
+* Leave hardware-accelerated enabled, configure it and choose only "8MB" for the textures. (Not that it matters much)
 
-But if you didn't run the registry setup first (which is fine) you just need to find where the patch files are, and move them to your current folder for MW3. If you ran the Registry setup somewhere else previously (like a different drive) you may find the files are there instead.
+4: Open the 1.2 patch download, and run the executable within.
 
-**5:** So now you have Mechwarrior 3 installed, a CD so it doesn't complain, and the 1.2 patch correctly installed. However, Mechwarrior 3 is based off of older tech and doesn't play nice with modern computers. 
+5 (Optional): Download the "no CD" fix from that same site. This is an executable based on version 1.2 of Mechwarrior 3. Move it into the Mechwarrior 3 folder and over-write the original. Now you don't need the ISO anymore. 
+
+**Method 2:**
+
+1: Download the RIP for Mechwarrior 3 [here](http://www.myabandonware.com/game/mechwarrior-3-7pg#download) and the version 1.2 patch. Extract it wherever you like. 
+
+2: Run the registry setup executable within. This also acts as the "no CD" fix.
+
+3: Open the 1.2 patch download, and run the executable within.
 
 So now we need the power of [dgVooDoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2.html). This is an interface that talks to applications and kind of emulates the types of graphics outputs they're expecting, so they can work with modern computers. Once extracted, copy all 3 files from the MS (microsoft) folder into your Mechwarrior 3 folder. You can place the dgVooDoo setup application wherever you like, but personally I just leave it in the Mechwarrior 3 folder. 
 
@@ -80,25 +90,15 @@ Downloads can be found here: http://mech3mod.weebly.com/blog
 
 Note: None of these mods replace the Mech3.exe executable. Please very carefully read the message on each mod before installing them, and the readme if you can. Don't make the mistakes I did. 
 
-* Mechwarrior 3 HD Skins 
+* Mechwarrior 3 Weapons Mod 2.47
 
-It's what it says on the tin. HD skins for several 'Mechs in MW3. Not all 'Mechs and all skins are affected, but it does get many. I'd certainly suggest trying this.
+This both modifies and replaces many of the weapons in Mechwarrior. Autocannons are single-shot. MGs are faster, more damaging and more accurate. Pulse lasers fire far differently. **I cannot overstate how damn good this mod is.** Seriously give it a try.
 
-Note: This will either work with Vanilla MW3, or the Weapons Mod 2.3 or earlier. **If you have Weapons Mod version 2.4 or newer, it comes with this skins pack**
-
-Also: It adds some extra things to the game, including messages in each map briefing (visibility, hazard info, etc). 
-
-* Mechwarrior 3 Weapons Mod 2.4/2.45
-
-This both modifies and replaces many of the weapons in Mechwarrior. Autocannons are single-shot. MGs are faster, more damaging and more accurate. Pulse lasers fire far differently. **I cannot overstate how damn good this mod is.** Seriously give it a try. 
-
-Note 1: You *need* to install the 2.4 weapons mod first before the 2.45 patch. You can't just install 2.45 on its own.
+Note 1: This includes the previously used HD Skins pack.
 
 Note 2: Just like how Skyrim has a limited number of skill trees (no more, no less) Mechwarrior 3 has a limited number of weapons. If you want a new weapon in the game, you'll need to replace something. Because of this, several weapons/electronics/additions are replaced in this mod. You can find the specifics in the readme or on his site, but just something to be aware of.
 
 Note 3: This one does more than it says on the tin. If you load up Op 1, Mission 2 you'll find that the turrets no longer have a max degree they can turn to. Approaching from the south *is* a death trap. You'll need to go northwest to the bridge and hit them where they can't hit you due to terrain. More changes like this may happen throughout the game. 
-
-Note 4: It's mentioned that if you're installing this mod, you shouldn't install The reader.zbd file from Teleguy's HD/Widescreen patch. Just note that while this is true, if you install the weapons mod afterward, it really doesn't matter. It'll be overwritten and work fine. 
 
 *  Mech3 Single-Player Campaign Added Enemies V 1.1
 
@@ -110,16 +110,8 @@ You will need to learn the layout of the map, do weird maneuvers and play far di
 
 #Known graphical, gameplay, and otherwise issues you may encounter
 
-* Moving objects, like the MFBs, may show signs of something like Z-fighting or texture flickering. Do you see the insides of the MFB kind of slide in and out of view as they roll by? If so, this is it. No known fix at this time, but *please* let me know if you're not encountering this so we can narrow it down. It may be an inevitability of dgVooDoo, but I'm unsure.
+* The MFBs on Op 2 Mission 2 (possibly some other missions) get stuck. This happens if they are used to repair at their starting point. Once you've been repaired, you'll find 2 of the 3 MFB's no longer respond to commands to move. This can be fixed by hitting escape, going into the options menu, and then going back into the mission. Once you do so, they'll un-stick and get moving to their point. 
 
-* The MFBs on Op 2 Mission 2 (possibly some other missions) get stuck. This happens if they are used to repair at their starting point. Once you've been repaired, you'll find 2 of the 3 MFB's no longer respond to commands to move. EDIT: This can be fixed by hitting escape, going into the options menu, and then going back into the mission. Once you do so, they'll un-stick and get moving to their point. 
-
-* Text in the UI looks like garbage, if it's not on a solid background. For example, the weapons list in the top right is basically unreadable most of the time. However, if I move the camera up so it's in front of the top of my 'Mech (on a solid background) it's perfectly readable. No known fix. 
-
-* Attempting to control-alt-delete may cause the game to go to a black screen. You won't even see the Windows options, you'll just be stuck there. Only fix is a restart. 
-
-* Some missions, like Operation 1 Mission 2, have a bug related to save-games. If you start the mission, take some damage, and then repair, you took armor out of your total armor supply. However, this also magically carries over to *before you started the mission*. Meaning that if you try and fail to do Mission 2 several times, you'll quickly find yourself starting the mission with no armor at all. The best fix is to just back up your save file at the beginning of each mission. If you fail it, delete your save and get the backup. (EDIT: This also applies to ammo. Several missions have this bug)
+* Some missions, like Operation 1 Mission 2, have a bug related to save-games. If you start the mission, take some damage, and then repair, you took armor out of your total armor supply. However, this also magically carries over to *before you started the mission*. Meaning that if you try and fail to do Mission 2 several times, you'll quickly find yourself starting the mission with no armor at all. The best fix is to just back up your save file at the beginning of each mission. If you fail it, delete your save and get the backup. This also applies to ammo. Several missions apparently have this bug.
 
 * Launching the game as administrator will cause OBS hotkeys like starting a recording to fail. Why? No clue. But I've done extensive testing, it's very consistent.
-
-* In-game resolution is different than in-menu resolution. If recording with OBS, force scaling to the same resolution as you set in the launcher.
