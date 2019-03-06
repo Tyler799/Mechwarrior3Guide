@@ -105,6 +105,10 @@ Note 2: Just like how Skyrim has a limited number of skill trees (no more, no le
 
 Note 3: This one does more than it says on the tin. If you load up Op 1, Mission 2 you'll find that the turrets no longer have a max degree they can turn to. Approaching from the south *is* a death trap. You'll need to go northwest to the bridge and hit them where they can't hit you due to terrain. More changes like this may happen throughout the game. 
 
+**PATCH:** The latest version (2.47) has a patch only available [here](https://cdn.discordapp.com/attachments/413419566052409364/541633607169605655/reader.exe) from the MW3 modding discord. You must open this using 7zip or another program (yes, I know it's an executable). Inside should be a file named reader.zbd. Move this into your ```Mechwarrior3/zbd``` folder.
+
+**Installation:** If your Mechwarrior 3 folder is named differently than is standard, the installer may put a Mechwarrior3 folder *inside* your Mechwarrior 3 folder. Just move the files and folders out of that one into your root Mechwarrior 3 folder. (Where the Mech3.exe lives)
+
 *  Mech3 Single-Player Campaign Added Enemies V 1.1
 
 This is not the Mechwarrior 3 you remember. This is a devastatingly brutal modification to the campaign. More enemies, smarter enemies, better equipped enemies with better guns. (Assuming you're using the weapons mod).
