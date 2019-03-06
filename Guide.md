@@ -113,6 +113,16 @@ You will need to learn the layout of the map, do weird maneuvers and play far di
 
 (If you can't handle it, which is *very* understandable, there's a version without the additional enemies that you may want to try. It's still certainly a challenge.)
 
+# Regarding Keybinds
+
+Some users may see issues when trying to rebind keys. Mainly, they may experience needing to press the key repeatedly in order for it to be recognized.
+
+No idea why this happens.
+
+One method to get around this is to edit the keybinding file directly. It can be found under Mechwarrior 3/keys. You can make a copy of the defaults, and then edit them from there. 
+
+If you want to know what key is what, look at [this guide](https://divine.fi.muni.cz/darcs/mainline-backup/external/pdclib/functions/locale/_PDCLIB_unicodedata.c) to unicode. 
+
 # Known Issues
 
 * (u) The MFBs on Op 2 Mission 2 (possibly some other missions) get stuck. This happens if they are used to repair at their starting point. Once you've been repaired, you'll find 2 of the 3 MFB's no longer respond to commands to move. This can be fixed by hitting escape, going into the options menu, and then going back into the mission. Once you do so, they'll un-stick and get moving to their point. 
