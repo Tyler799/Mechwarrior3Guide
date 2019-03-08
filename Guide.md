@@ -85,11 +85,11 @@ Congrats! This setup should work fine on modern machines, and won't have any rea
 
 Again, message me if you have anything going on after following these steps. This should work fine.
 
-However, do some of you want **more**? Did you find the campaign far too easy? The enemies and your lancemates too braindead? The weapons too painful to use or worthless? The missions too simplistic? You may be interested in the mods that can be found [here](http://mech3mod.weebly.com/blog).
+However, do some of you want **more**? Did you find the campaign far too easy? The enemies and your lancemates too braindead? The weapons too painful to use or worthless? The missions too simplistic? You may be interested in these mods.
 
 Note: None of these mods replace the Mech3.exe executable. Please very carefully read the message on each mod before installing them, and the readme if you can. Don't make the mistakes I did. 
 
-**Mechwarrior 3 Weapons Mod 2.47**
+**[Mechwarrior 3 Weapons Mod 2.47](http://mech3mod.weebly.com/downloads.html)**
 
 This both modifies and replaces many of the weapons in Mechwarrior. Autocannons are single-shot. MGs are faster, more damaging and more accurate. Pulse lasers fire far differently. **I cannot overstate how damn good this mod is.** Seriously give it a try.
 
@@ -103,7 +103,7 @@ Note 2: Just like how Skyrim has a limited number of skill trees (no more, no le
 
 **Installation:** If your Mechwarrior 3 folder is named differently than is standard, the installer may put a Mechwarrior3 folder *inside* your Mechwarrior 3 folder. Just move the files and folders out of that one into your root Mechwarrior 3 folder. (Where the Mech3.exe lives)
 
-**Mech3 Single-Player Campaign Added Enemies V 1.1**
+**[Mech3 Single-Player Campaign Added Enemies V 1.1](http://mech3mod.weebly.com/downloads.html)**
 
 This is not the Mechwarrior 3 you remember. This is a devastatingly brutal modification to the campaign. More enemies, smarter enemies, better equipped enemies with better guns. (Assuming you're using the weapons mod).
 
