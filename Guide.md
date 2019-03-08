@@ -125,7 +125,7 @@ If you want to know what key is what, look at [this guide](https://divine.fi.mun
 
 * (u) The MFBs on Op 2 Mission 2 (possibly some other missions) get stuck. This happens if they are used to repair at their starting point. Once you've been repaired, you'll find 2 of the 3 MFB's no longer respond to commands to move. This can be fixed by hitting escape, going into the options menu, and then going back into the mission. Once you do so, they'll un-stick and get moving to their point. 
 
-* (c) Some missions, like Operation 1 Mission 2, have a bug related to save-games. If you start the mission, take some damage, and then repair, you took armor out of your total armor supply. However, this also magically carries over to *before you started the mission*. Meaning that if you try and fail to do Mission 2 several times, you'll quickly find yourself starting the mission with no armor at all. The best fix is to just back up your save file at the beginning of each mission. If you fail it, delete your save and get the backup. This also applies to ammo. Several missions apparently have this bug. Making the saves read-only may also be a potential fix.
+* (c) MW3, for whatever reason, stores all salvage in the pilot file and not the save files. This means that if you try and fail to do a mission several times, you'll quickly find yourself starting the mission with no armor or even ammo at all. The best fix is to just back up your pilot file at the beginning of each mission. If you fail it, delete your pilot and get the backup.
 
 * (u) Launching the game as administrator will cause OBS hotkeys like starting a recording to fail. Why? No clue. But I've done extensive testing, it's very consistent.
 
