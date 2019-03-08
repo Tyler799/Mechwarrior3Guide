@@ -139,6 +139,28 @@ If you want to know what key is what, look at [this guide](https://divine.fi.mun
 
 * (c) No music. Sadly this seems to be just the way it is when dealing with .ISO files or RIPs instead of the original CD. :(
 
+# Pirates Moon
+
+Yes, Pirates moon is 100% playable as well.
+
+Steps:
+
+1: Download the ISO from [MyAbandonware](https://www.myabandonware.com/game/mechwarrior-3-pirate-s-moon-7ph)
+
+2: Download and install [Virtual Clonedrive](https://www.elby.ch/products/vcd.html). Make sure to enable it to see .bin and .cue files if not already enabled. 
+
+3: Virtual Clonedrive should now be the default app for opening .cue files and .bin files. Go ahead and open ```Mechwarrior3_Pirates_Moon.bin``` using it. It should mount similarly to how Mechwarrior 3 did for its ISO file. 
+
+4: Run autorun.exe. Install to your location of choice, it just can't be on top of the Mechwarrior 3 installation. Disable software rendering, enable hardware-accelerated and only enable the highest-resolution (8mb) textures. 
+
+5: Install dgVooDoo just like you did for Mechwarrior 3 and configure it the same way. 
+
+6: RTSS doesn't seem to work for Pirates Moon, either that or it doesn't like having two different executables with the same name. Either way, enabling vsync + 59Hz in dgVooDoo seemed to do the trick for me. You'll need to test it yourself to be sure. If not, let me know and I'll try to get a better workaround.
+
+7: (Optionally) Install the [Pirates Moon Weapons Mod](http://mech3mod.weebly.com/downloads.html). 
+
+8: Play! It works great from my testing. 
+
 # Contributions
 
 A massive thank you to /u/dei-ex-machina for making the original guide that inspired me to do this one.
