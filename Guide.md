@@ -141,7 +141,7 @@ If you want to know what key is what, look at [this guide](https://divine.fi.mun
 
 # Pirates Moon
 
-Yes, Pirates moon is 100% playable as well.
+Yes, Pirates Moon is 100% playable as well.
 
 Steps:
 
@@ -149,17 +149,19 @@ Steps:
 
 2: Download and install [Virtual Clonedrive](https://www.elby.ch/products/vcd.html). Make sure to enable it to see .bin and .cue files if not already enabled. 
 
-3: Virtual Clonedrive should now be the default app for opening .cue files and .bin files. Go ahead and open ```Mechwarrior3_Pirates_Moon.bin``` using it. It should mount similarly to how Mechwarrior 3 did for its ISO file. 
+3: Virtual CloneDrive should now be the default app for opening .cue files and .bin files. Go ahead and open ```Mechwarrior3_Pirates_Moon.bin``` using it. It should mount similarly to how Mechwarrior 3 did for its ISO file. 
 
 4: Run autorun.exe. Install to your location of choice, it just can't be on top of the Mechwarrior 3 installation. Disable software rendering, enable hardware-accelerated and only enable the highest-resolution (8mb) textures. 
 
-5: Install dgVooDoo just like you did for Mechwarrior 3 and configure it the same way. 
+5: Install dgVooDoo2 just like you did for Mechwarrior 3 and configure it the same way. 
 
 6: RTSS doesn't seem to work for Pirates Moon, either that or it doesn't like having two different executables with the same name. Either way, enabling vsync + 59Hz in dgVooDoo seemed to do the trick for me. You'll need to test it yourself to be sure. If not, let me know and I'll try to get a better workaround.
 
 7: (Optionally) Install the [Pirates Moon Weapons Mod](http://mech3mod.weebly.com/downloads.html). 
 
 8: Play! It works great from my testing. 
+
+Note: There's no "no CD" patch like there is for Mechwarrior 3, as far as I can tell. You're going to need to keep that .bin and .cue file (ideally in a folder inside the Pirates Moon folder) and open up that .bin file with Virtual CloneDrive when you want to play. It'll only be ejected if you turn the computer off though, so you won't need to do it too often. 
 
 # Contributions
 
