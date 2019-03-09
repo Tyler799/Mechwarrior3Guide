@@ -10,6 +10,8 @@ If you need to reach me, you can reach me:
 * PM me at /u/Night_Thastus on Reddit
 * PM me on Discord, Night Thastus #6641.
 
+The Mechwarrior 3 and Mech3 Modding community Discord can also be found here: https://discord.gg/gt8FXJ
+
 # Baseline Setup
 
 First and foremost, if you already have an installation of Mechwarrior 3 take the time to properly uninstall it. If you just have a ripped version then you don't need to use the Windows add/remove programs tool, but you should still go and delete the folder. 
