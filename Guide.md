@@ -137,7 +137,7 @@ If you want to know what key is what, look at [this guide](https://divine.fi.mun
 
 * (c) Binding keys in the controls menu seems iffy. Often need to press keys several times. 
 
-* (c) Some users report a "clicking" of the reticule. Current fixes are to enable MSAA to be 2x or greater in dgVoodoo. However, some people *still* report this. If you still are, try disabling dgVooDoo's "enumerate refresh rates" and vsync options, and go for capping to 30 FPS (not 60) using RTSS or another tool. It may be a > 30 FPS issue.
+* (c) **Some users report a "clicking" of the reticule. Zooming in and out quickly, making a sound.** Current fixes are to enable MSAA to be 2x or greater in dgVoodoo. However, some people *still* report this. If you still are, try disabling dgVooDoo's "enumerate refresh rates" and vsync options, and go for capping to 30 FPS (not 60) using RTSS or another tool. It may be a > 30 FPS issue.
 
 * (c) No music. Sadly this seems to be just the way it is when dealing with .ISO files or RIPs instead of the original CD. :(
 
