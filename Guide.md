@@ -159,11 +159,11 @@ Steps:
 
 6: RTSS doesn't seem to work for Pirate's Moon, either that or it doesn't like having two different executables with the same name. Either way, enabling vsync + 59Hz in dgVooDoo seemed to do the trick for me. You'll need to test it yourself to be sure. If not, let me know and I'll try to get a better workaround.
 
-7: Play! It works great from my testing. 
+7: (Optional) The [Pirate's Moon Weapon Mod 1.0](http://mech3mod.weebly.com/downloads.html) is similar to the one for Mechwarrior 3. There's a patch [here](https://cdn.discordapp.com/attachments/553933862330433546/554704233233121290/reader.zip) that fixes the first mission so you spawn in the Centurion like you're supposed to. 
+
+8: Play! It works great from my testing. 
 
 Note: There's no "no CD" patch like there is for Mechwarrior 3, as far as I can tell. You're going to need to keep that .bin and .cue file (ideally in a folder inside the Pirate's Moon folder) and open up that .bin file with Virtual CloneDrive when you want to play. It'll only be ejected if you turn the computer off though, so you won't need to do it too often. 
-
-Note 2: There is a weapons mod, similar to MW3's weapons mod. However, I encountered some issues with it and I don't think it's intended for use with the main campaign. 
 
 # Contributions
 
