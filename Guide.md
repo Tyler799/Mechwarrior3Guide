@@ -101,7 +101,7 @@ Note 1: This includes the previously used HD Skins pack.
 
 Note 2: Just like how Skyrim has a limited number of skill trees (no more, no less) Mechwarrior 3 has a limited number of weapons. If you want a new weapon in the game, you'll need to replace something. Because of this, several weapons/electronics/additions are replaced in this mod. You can find the specifics in the readme or on his site, but just something to be aware of.
 
-**PATCH:** The latest version (2.47) has a patch only available [here](https://cdn.discordapp.com/attachments/413419566052409364/541633607169605655/reader.exe) from the MW3 modding discord. You must open this using 7zip or another program (yes, I know it's an executable). Inside should be a file named reader.zbd. Move this into your ```Mechwarrior3/zbd``` folder.
+**PATCH:** The latest version (2.47) has a patch (2.47a) only available [here](https://www.dropbox.com/s/xq46s5hgmnhkc1m/Mech3patch2.47a.exe?dl=0)
 
 **Installation:** If your Mechwarrior 3 folder is named differently than is standard, the installer may put a Mechwarrior3 folder *inside* your Mechwarrior 3 folder. Just move the files and folders out of that one into your root Mechwarrior 3 folder. (Where the Mech3.exe lives)
 
