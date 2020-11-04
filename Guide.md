@@ -10,7 +10,7 @@ If you need to reach me, you can reach me:
 * PM me at /u/Night_Thastus on Reddit
 * PM me on Discord, Night Thastus #6641.
 
-The Mechwarrior 3 and Mech3 Modding community Discord can also be found here: https://discord.gg/gt8FXJ
+The Mechwarrior 3 and Mech3 Modding community Discord can also be found here: https://discord.gg/Qfsn4HauXG
 
 # Baseline Setup
 
