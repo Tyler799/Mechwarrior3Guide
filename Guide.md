@@ -95,7 +95,7 @@ However, do some of you want **more**? Did you find the campaign far too easy? T
 
 Note: None of these mods replace the Mech3.exe executable. Please very carefully read the message on each mod before installing them, and the readme if you can. Don't make the mistakes I did. 
 
-**[Mechwarrior 3 Weapons Mod 2.48.30](https://drive.google.com/file/d/13hh3ubOCSCkOoJMGBkphkbWozqKbg1WG/view)** (If no longer available, original website is [here](http://mech3mod.weebly.com/downloads.html)).
+**[Mechwarrior 3 Weapons Mod 2.48.31](https://drive.google.com/u/0/uc?id=1AyoC8gNJK1F-8Lwf4z9UKIt2ipCydrVy&export=download)** (If no longer available, original website is [here](http://mech3mod.weebly.com/downloads.html)).
 
 This both modifies and replaces many of the weapons in Mechwarrior. Autocannons are single-shot. MGs are faster, more damaging and more accurate. Pulse lasers fire far differently. **I cannot overstate how damn good this mod is.** Seriously give it a try.
 
