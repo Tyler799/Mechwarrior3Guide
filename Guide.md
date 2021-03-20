@@ -36,7 +36,7 @@ As for installation, there's two main methods. I recommend the first one:
 
 1: Download the RIP for Mechwarrior 3 [here](http://www.myabandonware.com/game/mechwarrior-3-7pg#download) and the version 1.2 patch. Extract it wherever you like. 
 
-Run the registry setup executable within. This also acts as the "no CD" fix.
+2: Run the registry setup executable within. This also acts as the "no CD" fix.
 
 3: Open the 1.2 patch download, and run the executable within.
 
