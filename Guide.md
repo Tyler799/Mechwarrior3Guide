@@ -34,9 +34,9 @@ As for installation, there's two main methods. I recommend the first one:
 
 **Method 2:**
 
-1: Download the RIP for Mechwarrior 3 [here](http://www.myabandonware.com/game/mechwarrior-3-7pg#download) and the version 1.2 patch. Extract it wherever you like. 
+1: Download the ISO for Mechwarrior 3 [here](http://www.myabandonware.com/game/mechwarrior-3-7pg#download) and the version 1.2 patch. Extract it wherever you like. 
 
-2: Run the registry setup executable within. This also acts as the "no CD" fix.
+2: If you did go with the RIP, run the registry setup executable within. This also acts as the "no CD" fix.
 
 3: Open the 1.2 patch download, and run the executable within.
 
@@ -44,9 +44,13 @@ If later while testing, this fails complaining about a missing MSVCP50.DLL, you 
 
 (I've only encountered this in the RIP version, not the installed version)
 
-There are several bugs which I'm almost 100% certain *only occur on the ripped version* after testing in both. So again, I *do not recommend this approach*! Just download the ISO, and run the installer. 
+There are several bugs which I'm almost 100% certain *only occur on the ripped version* after testing in both. So again, I *do not recommend that approach*! Just download the ISO, and run the installer. 
 
 **After main installation Method 1 or 2:**
+
+Download the EXE Fix: https://github.com/TerranMechworks/ZipperFixup/releases/
+
+This "fixes counting errors that have to do with the game's timing, and therefore is a huge help with game stability on modern systems". Highly recommended. 
 
 So now we need the power of [dgVooDoo2](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/). This is an interface that talks to applications and kind of emulates the types of graphics outputs they're expecting, so they can work with modern computers. Once extracted, copy all 3 files from the MS (microsoft) folder into your Mechwarrior 3 folder. You can place the dgVooDoo setup application wherever you like, but personally I just leave it in the Mechwarrior 3 folder. 
 
@@ -91,7 +95,7 @@ However, do some of you want **more**? Did you find the campaign far too easy? T
 
 Note: None of these mods replace the Mech3.exe executable. Please very carefully read the message on each mod before installing them, and the readme if you can. Don't make the mistakes I did. 
 
-**[Mechwarrior 3 Weapons Mod 2.47](http://mech3mod.weebly.com/downloads.html)**
+**[Mechwarrior 3 Weapons Mod 2.48.30](https://drive.google.com/file/d/13hh3ubOCSCkOoJMGBkphkbWozqKbg1WG/view)** (If no longer available, original website is [here](http://mech3mod.weebly.com/downloads.html)).
 
 This both modifies and replaces many of the weapons in Mechwarrior. Autocannons are single-shot. MGs are faster, more damaging and more accurate. Pulse lasers fire far differently. **I cannot overstate how damn good this mod is.** Seriously give it a try.
 
