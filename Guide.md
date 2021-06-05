@@ -95,7 +95,7 @@ However, do some of you want **more**? Did you find the campaign far too easy? T
 
 Note: None of these mods replace the Mech3.exe executable. Please very carefully read the message on each mod before installing them, and the readme if you can. Don't make the mistakes I did. 
 
-**[Mechwarrior 3 Weapons Mod 2.48.31](https://drive.google.com/u/0/uc?id=1AyoC8gNJK1F-8Lwf4z9UKIt2ipCydrVy&export=download)** (If no longer available, original website is [here](http://mech3mod.weebly.com/downloads.html)).
+**[Mechwarrior 3 Weapons Mod 2.48.32](https://drive.google.com/file/d/1NDvmQ2fxFQ9NgxeOmXV5Ucrvj6ffmjiJ/view)** (If no longer available, original website is [here](http://mech3mod.weebly.com/downloads.html)).
 
 This both modifies and replaces many of the weapons in Mechwarrior. Autocannons are single-shot. MGs are faster, more damaging and more accurate. Pulse lasers fire far differently. **I cannot overstate how damn good this mod is.** Seriously give it a try.
 
@@ -104,8 +104,6 @@ This one does more than it says on the tin. If you load up Op 1, Mission 2 you'l
 Note 1: This includes the previously used HD Skins pack.
 
 Note 2: Just like how Skyrim has a limited number of skill trees (no more, no less) Mechwarrior 3 has a limited number of weapons. If you want a new weapon in the game, you'll need to replace something. Because of this, several weapons/electronics/additions are replaced in this mod. You can find the specifics in the readme or on his site, but just something to be aware of.
-
-**PATCH:** The latest version (2.47) has a patch (2.47a) only available [here](https://www.dropbox.com/s/xq46s5hgmnhkc1m/Mech3patch2.47a.exe?dl=0)
 
 **Installation:** If your Mechwarrior 3 folder is named differently than is standard, the installer may put a Mechwarrior3 folder *inside* your Mechwarrior 3 folder. Just move the files and folders out of that one into your root Mechwarrior 3 folder. (Where the Mech3.exe lives)
 
@@ -163,7 +161,7 @@ Steps:
 
 6: RTSS doesn't seem to work for Pirate's Moon, either that or it doesn't like having two different executables with the same name. Either way, enabling vsync + 59Hz in dgVooDoo seemed to do the trick for me. You'll need to test it yourself to be sure. If not, let me know and I'll try to get a better workaround.
 
-7: (Optional) The [Pirate's Moon Weapon Mod 1.0](http://mech3mod.weebly.com/downloads.html) is similar to the one for Mechwarrior 3. There's a patch [here](https://cdn.discordapp.com/attachments/553933862330433546/554704233233121290/reader.zip) that fixes the first mission so you spawn in the Centurion like you're supposed to. 
+7: (Optional) The [Pirate's Moon Weapon Mod 1.0](http://mech3mod.weebly.com/downloads.html) is similar to the one for Mechwarrior 3. There's an updated v1.1 version [here](https://drive.google.com/file/d/1sguDqWu_8hmjI92cNTSdwJ15CqdS5_OW/view) that was posted on Discord.
 
 8: Play! It works great from my testing. 
 
