@@ -95,7 +95,7 @@ However, do some of you want **more**? Did you find the campaign far too easy? T
 
 Note: None of these mods replace the Mech3.exe executable. Please very carefully read the message on each mod before installing them, and the readme if you can. Don't make the mistakes I did. 
 
-**[Mechwarrior 3 Weapons Mod 2.48.32](https://drive.google.com/file/d/1NDvmQ2fxFQ9NgxeOmXV5Ucrvj6ffmjiJ/view)** (If no longer available, original website is [here](http://mech3mod.weebly.com/downloads.html)).
+**[Mechwarrior 3 Weapons Mod 4X 2.48.33 Beta](https://drive.google.com/file/d/1SBTrnpsj4lRIF9sZXZHpVf2To-qcQMls/view)** 
 
 This both modifies and replaces many of the weapons in Mechwarrior. Autocannons are single-shot. MGs are faster, more damaging and more accurate. Pulse lasers fire far differently. **I cannot overstate how damn good this mod is.** Seriously give it a try.
 
@@ -107,7 +107,7 @@ Note 2: Just like how Skyrim has a limited number of skill trees (no more, no le
 
 **Installation:** If your Mechwarrior 3 folder is named differently than is standard, the installer may put a Mechwarrior3 folder *inside* your Mechwarrior 3 folder. Just move the files and folders out of that one into your root Mechwarrior 3 folder. (Where the Mech3.exe lives)
 
-**[Mech3 Single-Player Campaign Added Enemies V 1.1](http://mech3mod.weebly.com/downloads.html)**
+**[Mech3 Single-Player Campaign Added Enemies V 1.1](https://www.mediafire.com/file/9i3ka4i6ca6qsp3/Mech_3_Campaign_Added_Enemies_Modv1.1.exe/file)**
 
 This is not the Mechwarrior 3 you remember. This is a devastatingly brutal modification to the campaign. More enemies, smarter enemies, better equipped enemies with better guns. (Assuming you're using the weapons mod).
 
